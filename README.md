@@ -4,12 +4,6 @@ Objective of this project is to provide a new way for learning Sorting Type with
 1Selection sort using QML
 
 
-
-
-
-
-
-
 import QtQuick 2.0
 import QtQuick 2.12
 import QtQuick.Window 2.12
