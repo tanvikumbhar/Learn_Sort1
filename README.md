@@ -1,6 +1,9 @@
 # Learn_Sort1
 Objective of this project is to provide a new way for learning Sorting Type with the interactive features to the Qt framework. 
 ////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
 1Selection sort using QML
 
 import QtQuick 2.0
